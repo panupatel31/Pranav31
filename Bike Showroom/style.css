@@ -1,0 +1,117 @@
+    body {
+        margin: 0px;
+    }
+    
+    #header {
+        width: 100%;
+        height: 100px;
+    }
+    
+    #brand {
+        width: 10%%;
+        height: 90px;
+        margin-left: 5px;
+        margin-top: 5px;
+    }
+    
+    .brandlogo {
+        width: 10%;
+        height: 80px;
+        margin-top: 10px;
+        margin-left: 10px;
+        padding: 5px;
+    }
+    
+    #navbar {
+        width: 100%;
+        height: 30px;
+        background-color: white;
+    }
+    
+    .navitem {
+        width: 5%;
+        height: 25px;
+        margin-top: 5px;
+        margin-left: 5px;
+        text-align: center;
+        float: left;
+    }
+    
+    .navitem:hover {
+        background-color: red;
+        color: gray;
+        size: 5px;
+    }
+    
+    #image {
+        width: 80%;
+        margin-left: 220px;
+    }
+    
+    #maincontent {
+        width: 100%;
+        height: 500px;
+    }
+    
+    #leftcontent {
+        width: 20%;
+        height: 500px;
+        float: left;
+    }
+    
+    h2 {
+        margin-left: 40px;
+        color: red;
+    }
+    
+    p {
+        margin-left: 40px;
+        font-size: 20px;
+    }
+    
+    #centercontent {
+        width: 60%;
+        height: 500px;
+        float: left;
+    }
+    
+    .img-container {
+        float: left;
+        width: 30%;
+        padding: 5px;
+    }
+    
+    #rightcontent {
+        width: 20%;
+        height: 500px;
+        float: left;
+    }
+    
+    #footer {
+        width: 100%;
+        height: 80px;
+        background-color: gray;
+    }
+    
+    .h2 {
+        color: white;
+        margin-left: 70px;
+        text-align: center;
+        padding-top: 10px;
+        margin-top: 30px;
+    }
+    
+    .column {
+        float: left;
+        padding: 10x;
+        width: 33.33%;
+    }
+    
+    .i {
+        padding-left: 15px;
+        margin: 25px;
+    }
+    
+    .demo {
+        list-style-type: none;
+    }
